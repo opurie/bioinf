@@ -1,6 +1,6 @@
 CC=gcc
 CXX=g++
-CXXFLAGS = -std=c++0x  -Wall -I $(INCLUDE)
+CXXFLAGS = -std=c++0x  -Wall 
 
 SRC_DIR = src
 INCLUDE_DIR = include
